@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React in less than a day
+          Texto modificado para enviar a GitHub
         </a>
       </header>
     </div>
